@@ -1,0 +1,7 @@
+{
+  "name": "epwr-runway-intelligence",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test", "start": "node server.mjs", "check": "node --check app.js && node --check model.js" }
+}
